@@ -3,7 +3,7 @@
 Usage:
 
 1) Run the script "bash_script.sh" as a root user.
-2) Upon the completion of the above script , a new terminal opens.Navigate to this cloned repository and run the script "hyper_script.sh" .
+2) Upon the completion of the above script , a new terminal opens.Navigate to this cloned repository in the new terminal and run the script "hyper_script.sh" .
 
 And your'e done. Just execute 'hyper' in your terminal to get the star-wars themed terminal !
 
